@@ -1,0 +1,35 @@
+{
+  "name": "yqnizvyqr.github",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "sass": "1.60.0",
+    "react": "18.2.0",
+    "emotion": "11.0.0",
+    "date-fns": "2.29.3",
+    "react-is": "18.2.0",
+    "bootstrap": "5.3.0-alpha3",
+    "react-dom": "18.2.0",
+    "classnames": "2.3.2",
+    "@types/react": "18.0.33",
+    "@popperjs/core": "2.11.7",
+    "bootstrap-icons": "1.10.4",
+    "react-bootstrap": "2.7.2",
+    "styled-components": "5.3.9",
+    "@fortawesome/fontawesome-free": "6.4.0",
+    "@fortawesome/react-fontawesome": "0.2.0",
+    "@fortawesome/fontawesome-svg-core": "6.4.0",
+    "@fortawesome/free-solid-svg-icons": "6.4.0",
+    "@fortawesome/free-brands-svg-icons": "6.4.0",
+    "@fortawesome/free-regular-svg-icons": "6.4.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
